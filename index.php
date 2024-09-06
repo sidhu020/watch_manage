@@ -28,6 +28,7 @@ $db = $database->getConnection();
         <div class="content-wrapper">
             <div class="container-fluid">
                 <h1>C:\xampp\htdocs\SCMS\index.php</h1>
+                <h1>index page edited</h1>
             </div><!-- /.container-fluid -->
         </div>
 
